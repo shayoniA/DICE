@@ -1,0 +1,58 @@
+body
+{
+    background-color: darkslategrey;
+}
+
+h1
+{
+    text-align: center;
+    color: limegreen;
+    font-size: 6vw;
+}
+
+#one
+{
+    font-size: 2vw;
+    text-align: center;
+    font-family: cursive;
+    font-weight: lighter;
+    color: greenyellow;
+}
+
+#two
+{
+    font-size: 2vw;
+    text-align: center;
+    font-family: cursive;
+    font-weight: lighter;
+    color: greenyellow;
+}
+
+#p1
+{
+    display: inline-block;
+}
+
+#p2
+{
+    display: inline-block;
+}
+
+#im1
+{
+    height: 15vw;
+    width: 15vw;
+}
+
+#im2
+{
+    height: 15vw;
+    width: 15vw;
+}
+
+#p12
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
